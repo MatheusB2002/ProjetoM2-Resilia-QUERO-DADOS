@@ -11,7 +11,7 @@ class Questionario:
 
         with open('pesquisa.csv', 'w'):
             item_df = pd.DataFrame(item, columns=['Nome', 'Gênero', 'Idade', 'Pergunta 1', 'Pergunta 2', 'Pergunta 3', 'Pergunta 4', 'Hora', 'Data'])
-            item_df.to_csv('pesquisa.csv')
+            item_df.to_csv('pesquisa.csv',index=False)
      
     # Método que quando instanciado, avalia as respostas do usuário às perguntas da pesquisa, certificando que apenas os valores válidos sejam inseridos.
     def checkRespostas(self,chave):
