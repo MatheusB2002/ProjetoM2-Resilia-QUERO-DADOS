@@ -39,28 +39,30 @@
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  
 https://www.linkedin.com/in/jos%C3%A9-luiz-ferreira-junior-02a5141b1/
-
+#  
+    
 ## Marcus Vinicius Santos
-#
+
 ### Gestor de Gente e Engajamento
 <p align="center"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQEXdvdLvM_zbQ/profile-displayphoto-shrink_800_800/0/1654461308631?e=1664409600&v=beta&t=SLxbaLja1HEKDa7csLwe20J8WIQi44ZqmwAbGtcbPGQ" width=150>
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  
 https://www.linkedin.com/in/marcus-vinicius-santos/ 
 
-
-## Ives Viana Fragoso
-#
+#  
+    
+## Ives Viana Fragoso 
+    
 ### Gestor de Conhecimento
 <p align="center"><img src="https://media-exp1.licdn.com/dms/image/D4D35AQHkc3nDMEjKuA/profile-framedphoto-shrink_800_800/0/1658948718614?e=1659556800&v=beta&t=8FYxdH4uk0lMEU3_TGBvz4jeDAdULyYQX7HdGPUQSy0" width=150>  
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  
 https://www.linkedin.com/in/ives-viana-fragoso-0654461ab/ 
 
-
-
+#  
+    
 ## Matheus Barbosa Almeida
-#
+    
 ### Co-Facilitador
 <p align="center"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQEanNX_FpC2-A/profile-displayphoto-shrink_800_800/0/1655854367256?e=1664409600&v=beta&t=JRh7ilxXWrNsoURqgJTj5SeRkjnj0h3lk2AixXsUBOg" width=150>  
 
