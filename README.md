@@ -22,7 +22,7 @@
 
     1º - Clone o repositório do GitHub;
 
-    2º -  Inicie o arquivo "Projeto.py";
+    2º -  Inicie o arquivo "ProjetoM2.py";
 
     3º - Insira as informações que o programa pedir pelo terminal;
 
