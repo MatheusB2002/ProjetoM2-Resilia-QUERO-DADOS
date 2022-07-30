@@ -1,4 +1,4 @@
-# Projeto final de módulo 2: Resilia Educação
+# Projeto final de módulo 2: Quero Dados na Minha Mesa - Resilia Educação
 
 ![banner projeto](https://media.discordapp.net/attachments/998703887278157824/1001915176129400933/unknown.png)
 
